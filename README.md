@@ -9,9 +9,9 @@ A new architetecture (split in public api and internal api:
   - public unprotected api (that will serve the metadata contents)
 
 ## Two micro web app:
-- snello-admin
+- snello-admin => snello-console
   - metadata api 
-- snello-contents
+- snello-contents or => snello-data-admin or snellocms
   - content api management
 
 ## snello-admin
